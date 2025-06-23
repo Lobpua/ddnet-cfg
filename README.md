@@ -23,7 +23,7 @@
 
 ### Описание
 Эти бинды сделаны под себя, так что, не ругайтесь.
-Не забывайте сделать резервную копию своих биндов, иначе заебётесь.
+Не забывайте сделать резервную копию своих биндов, иначе заебётесь. Путь к собственному кфг для бэкапа: "%appdata%/ddnet/settings_ddnet.cfg"
 
 <a name="english-version"></a>
 ## English Version
@@ -44,4 +44,4 @@
 
 ### Description
 These bindings are custom made, so no swearing. 
-Don't forget to back up your bindings or you'll get fucked up.
+Don't forget to back up your bindings or you'll get fucked up. Path to your own cfg for backup: "%appdata%/ddnet/settings_ddnet.cfg"
